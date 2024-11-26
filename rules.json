@@ -308,8 +308,7 @@
             ]
         }
     ],
-    "category": "Pets Supplies",
-    "rules": [
+    "Pets Supplies": [
         {
             "category": "Cage সম্পর্কিত",
             "rules": [
@@ -400,6 +399,50 @@
                 [
                     "Dumbbells, Training Racks, Treadmills, Bicycles, Electric Bikes: ",
                     "এগুলোর জন্য গুরুত্বপূর্ণ বিষয় হচ্ছে ওজন, লোড বিয়ারিং ক্ষমতা, গতি, হর্সপাওয়ার ইত্যাদি। এগুলোর জন্য নির্দিষ্ট গুরুত্বপূর্ণ চিহ্নিত পয়েন্ট দেওয়া হয়েছে।"
+                ]
+            ]
+        }
+    ],
+    "Home & Yard": [
+        {
+            "category": "Bedding Filling Material Proportion",
+            "rules": [
+                [
+                    "A. যখন উপাদানের শ্রেণী আলাদা হয়, যেমন: velvet (বামপাশ) এবং silk (ডানপাশ), তখন এগুলোকে \"Not Same\" হিসেবে Mark করতে হবে।"
+                ],
+                [
+                    "B. যদি উপাদানের শ্রেণী একই হয়, তবে উভয় পাশে উপাদানের proportion মেলানো প্রয়োজন। যদি কোনো পাশের proportion তথ্য অনুপস্থিত থাকে, তবে তা same হিসেবে Mark করতে হবে। উদাহরণ: 30% Polyester + Feather = Polyester + Feather"
+                ]
+            ]
+        },
+        {
+            "category": "Bedding Category",
+            "rules": [
+                [
+                    "A. Pillow (বালিশ) এবং Pillow Case (বালিশের কভার), Pillow Core (বালিশের ভিতর) আলাদা শ্রেণী, তাই এগুলো \"Not Same\" হিসেবে Mark করতে হবে।"
+                ],
+                [
+                    "B. Quilt (কম্বল) এবং Quilt Cover (কম্বল কভার) আলাদা শ্রেণী, তাই এগুলো \"Not Same\" হিসেবে Mark করতে হবে।"
+                ],
+                [
+                    "C. Zipper Pillow (জিপার বালিশ) এবং Button Pillow (বাটন বালিশ) আলাদা, তাই এগুলো \"Not Same\" হিসেবে Mark করতে হবে।"
+                ]
+            ]
+        },
+        {
+            "category": "Plant Seed",
+            "rules": [
+                [
+                    "A. ভিন্ন varieties (জাত) Not Same হবে। উদাহরণ: Common Tomato (বামপাশ), Tomato Pepper (ডানপাশ)"
+                ],
+                [
+                    "B. ভিন্ন Color (রঙ) Not Same হবে।"
+                ],
+                [
+                    "C. ভিন্ন production places (উৎপাদন স্থান) Not Same হবে। উদাহরণ: Virginia Tomato (বামপাশ), Italian Roma Tomato (ডানপাশ) নোট: যদি কোনো পক্ষের origin information (উৎপত্তি তথ্য) অনুপস্থিত থাকে, তবে তা same হিসেবে Mark করা হবে।"
+                ],
+                [
+                    "D. ভিন্ন quantities (পরিমাণ) আলাদা হবে।"
                 ]
             ]
         }
