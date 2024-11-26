@@ -318,18 +318,10 @@
         {
             "category": "Cat Food এবং Dog Food সম্পর্কিত",
             "rules": [
-                [
-                    "Cat food এবং Dog food আলাদা।"
-                ],
-                [
-                    "Adult dogs or puppies এবং adult cats or kittens আলাদা।"
-                ],
-                [
-                    "Cat food এবং Dog food-এর Taste আলাদা হতে পারে।"
-                ],
-                [
-                    "Brand গুরুত্বপূর্ণ।"
-                ]
+                "Cat food এবং Dog food আলাদা।",
+                "Adult dogs/puppies এবং adult cats/kittens আলাদা।",
+                "Cat food এবং Dog food-এর Taste আলাদা হতে পারে।",
+                "Brand গুরুত্বপূর্ণ।"
             ]
         },
         {
