@@ -308,7 +308,8 @@
             ]
         }
     ],
-    "Pets Supplies": [
+    "category": "Pets Supplies",
+    "rules": [
         {
             "category": "Cage সম্পর্কিত",
             "rules": [
