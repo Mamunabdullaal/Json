@@ -1,9 +1,8 @@
 {
   "Basic Rules": [
     {
-      "Category": "Brand Not Same",
-      
-      "Rules": [
+      "category": "Brand Not Same",
+      "rules": [
         
         "Phone Product Brand and Model দেখতে হবে।",
         
@@ -11,9 +10,8 @@
       ]
     },
     {
-      "Category": "Auto Accessories - Brand Not Same",
-      
-      "Rules": [
+      "category": "Auto Accessories - Brand Not Same",
+      "rules": [
         
         "Auto Accessories যে ব্র্যান্ডের জন্য তৈরি, সেটা দেখতে হবে।",
         
@@ -21,9 +19,8 @@
       ]
     },
     {
-      "Category": "Auto Accessories - Same Product",
-      
-      "Rules": [
+      "category": "Auto Accessories - Same Product",
+      "rules": [
         
         "Auto Accessories নির্দিষ্ট ব্র্যান্ড এবং বছর অনুযায়ী তৈরি হলে, যখন ব্র্যান্ড এবং বছর দুটোই একই হয়, তখন তাদেরকে একই পণ্য হিসেবে ধরা হবে।",
         
@@ -32,9 +29,8 @@
       ]
     },
     {
-      "Category": "Category Not Same",
-      
-      "Rules": [
+      "category": "Category Not Same",
+      "rules": [
         
         "যদি Left পণ্য Poster হয় এবং Right পণ্য Canvas painting হয়, তাহলে এগুলোকে 'Category Not Same' হিসেবে Mark করতে হবে।",
         
@@ -47,9 +43,8 @@
       ]
     },
     {
-      "Category": "For Phone Cases, Earphone Cases, Screen Protectors",
-      
-      "Rules": [
+      "category": "For Phone Cases, Earphone Cases, Screen Protectors",
+      "rules": [
         
         "Appearance, Material, Brand, এবং Magnetic Function এর উপর লক্ষ্য রাখতে হবে।",
         
@@ -60,9 +55,8 @@
       ]
     },
     {
-      "Category": "About Laptop",
-      
-      "Rules": [
+      "category": "About Laptop",
+      "rules": [
         
         "Model, RAM, ROM, SSD, Screen Size, Resolution, এবং Processor এর মত স্পেসিফিকেশনগুলোতে লক্ষ্য রাখতে হবে।",
         
@@ -70,17 +64,15 @@
       ]
     },
     {
-      "Category": "About Earphone",
-      
-      "Rules": [
+      "category": "About Earphone",
+      "rules": [
         
         "Left: 500mAh, Right: 380mAh, এগুলোকে 'Not Same' হিসেবে Mark করতে হবে এবং 'Other' হিসেবে Mark করতে হবে।"
       ]
     },
     {
-      "Category": "About Some Electrical Equipment",
-      
-      "Rules": [
+      "category": "About Some Electrical Equipment",
+      "rules": [
         
         "Battery Capacity, Voltage, Wattage, Plug Size, Power Supply Modes, ইত্যাদি স্পেসিফিকেশনগুলোতে লক্ষ্য রাখতে হবে。",
         
@@ -97,9 +89,8 @@
       ]
     },
     {
-      "Category": "About Violin",
-
-      "Rules": [
+      "category": "About Violin",
+      "rules": [
         
         "Size, Material, Appearance, ইত্যাদি স্পেসিফিকেশনগুলোতে লক্ষ্য রাখতে হবে。",
         
@@ -107,9 +98,8 @@
       ]
     },
     {
-      "Category": "About Bed Frame and Mattress",
-      
-      "Rules": [
+      "category": "About Bed Frame and Mattress",
+      "rules": [
         
         "Bed Frame এবং Mattress এর বিভিন্ন সাইজ থাকে, যেমন Twin, Twin XL, King, Queen, Full, ইত্যাদি।",
         
@@ -117,9 +107,8 @@
       ]
     },
     {
-      "Category": "About Book Items",
-      
-      "Rules": [
+      "category": "About Book Items",
+      "rules": [
         
         "ISBN তথ্য যাচাই করার সময় সঠিকভাবে মিলিয়ে দেখতে হবে।",
         "ISBN এর দুটি ধরনের সংখ্যা থাকে, একটি 10-digit এবং একটি 13-digit। এই দুইটি old এবং new encoding পদ্ধতির পার্থক্য।",
@@ -131,9 +120,8 @@
       ]
     },
     {
-      "Category": "Special Cases",
-      
-      "Rules": [
+      "category": "Special Cases",
+       "rules": [
         
         "Tape, Tablet Cases, Tablet Bags, Express Bags, Some Industrial Equipment, ইত্যাদির জন্য 0-3cm error range প্রযোজ্য নয়।",
         "তাদের সাইজ পুরোপুরি একই হতে হবে যাতে তারা same হিসেবে Mark করা যায়",
@@ -145,9 +133,8 @@
       ]
     },
     {
-      "Category": "About Error Range <=10%",
-      
-      "Rules": [
+      "category": "About Error Range <=10%",
+      "rules": [
         
         "এটি industry-recognized size standards না থাকা Industrial Hardware এর জন্য প্রযোজ্য।",
         "অন্য সব পণ্যের জন্য, আমরা Error Range <=3cm অনুসরণ করতে পারি।",
