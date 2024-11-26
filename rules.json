@@ -1,0 +1,16 @@
+[
+    {
+        "category": "Category 1",
+        "rules": [
+            "Rule 1.1",
+            "Rule 1.2"
+        ]
+    },
+    {
+        "category": "Category 2",
+        "rules": [
+            "Rule 2.1",
+            "Rule 2.2"
+        ]
+    }
+]
