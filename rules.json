@@ -312,9 +312,7 @@
         {
             "category": "Cage সম্পর্কিত",
             "rules": [
-                [
-                    "Appearance আলাদা: cover সহ বা cover ছাড়া।"
-                ]
+                "Appearance With Cover or Without Cover"
             ]
         },
         {
@@ -324,7 +322,7 @@
                     "Cat food এবং Dog food আলাদা।"
                 ],
                 [
-                    "Adult dogs/puppies এবং adult cats/kittens আলাদা।"
+                    "Adult dogs or puppies এবং adult cats or kittens আলাদা।"
                 ],
                 [
                     "Cat food এবং Dog food-এর Taste আলাদা হতে পারে।"
