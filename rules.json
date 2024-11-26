@@ -206,7 +206,7 @@
                 ],
                 [
                     "Weight/Volume Different:",
-                    "যেমন: 3.5g, 4.5g, 2.1ml, 5ml। Lipstick Color বা Shade গুরুত্বপূর্ন নয়।",
+                    "যেমন: 3.5g vs 4.5g, 2.1ml vs 5ml Not Same। Lipstick Color বা Shade গুরুত্বপূর্ন নয়।",
                     "Ex: Left: 302 color, Right: 502 color - এগুলোকে 'Same' হিসেবে Mark করতে হবে।"
                 ]
             ]
@@ -216,15 +216,15 @@
             "rules": [
                 [
                     "Volume:",
-                    "যেমন: 5ml, 15ml, 30ml।"
+                    "যেমন: 5ml vs 15ml, Not Same"
                 ],
                 [
                     "Sun Protection:",
-                    "SPF50+ বা SPF30+।"
+                    "SPF50+ vs SPF30+ Not Same"
                 ],
                 [
                     "Brand:",
-                    "যেমন: Chanel, YSL ইত্যাদি।"
+                    "যেমন: Chanel vs YSL Not Same"
                 ],
                 [
                     "Criteria that don’t matter:",
@@ -237,11 +237,11 @@
             "rules": [
                 [
                     "Appearance/Function:",
-                    "Eyebrow brush, Powder brush ইত্যাদি।"
+                    "Eyebrow brush vs Powder brush Not Same।"
                 ],
                 [
                     "Material of Brush Handle:",
-                    "ABS, Wood ইত্যাদি।"
+                    "ABS vs Wood equal Not Same।"
                 ]
             ]
         },
